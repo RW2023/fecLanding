@@ -1,4 +1,5 @@
 # Front End Collab Landing Page
+[![Netlify Status](https://api.netlify.com/api/v1/badges/988b2e94-bd16-496c-8a8a-c9a3ce7f3a44/deploy-status)](https://app.netlify.com/sites/feclanding/deploys)
 
 Welcome to the Front End Collab Discord community landing page repository! This repository serves as the central hub for our community-wide project aimed at creating an awesome landing page for our community. We encourage all community members and contributors to get involved in this project and make it a collaborative effort.
 
