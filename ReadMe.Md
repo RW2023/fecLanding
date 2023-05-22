@@ -40,7 +40,7 @@ Welcome to the Front End Collab Discord community landing page repository! This 
 
   ## Community Support
 
-  If you have any questions or need help regarding this project, please join our [Front End Collab Discord community](https://discord.gg/front-end-collab) and ask in the dedicated channel for this project. Our friendly community members and admins will be glad to assist you.
+  If you have any questions or need help regarding this project, please join our [Front End Collab Discord community](https://discord.gg/vdcqGdnhrX) and ask in the dedicated channel for this project. Our friendly community members and admins will be glad to assist you.
 
   We appreciate your interest in contributing to the Front End Collab landing page project. Let's collaborate and build an amazing landing page together!
 
