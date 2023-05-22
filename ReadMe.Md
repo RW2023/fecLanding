@@ -14,6 +14,7 @@ Welcome to the Front End Collab Discord community landing page repository! This 
   ## Getting Started
 
   To contribute to this project, please follow these steps:
+   Explore the [Issues](https://github.com/RW2023/fecLanding/issues) section of this repository to find tasks or issues you would like to work on.
 
     1. Fork this repository to your own GitHub account.
     2. Clone the forked repository to your local development environment.
