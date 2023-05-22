@@ -17,7 +17,7 @@ Welcome to the Front End Collab Discord community landing page repository! This 
     1. Fork this repository to your own GitHub account.
     2. Clone the forked repository to your local development environment.
     3. Create a new branch for your contribution. It's recommended to use a descriptive branch name that relates to the issue you are addressing.
-    4. Explore the [Issues](https://github.com/your-username/front-end-collab-landing-page/issues) section of this repository to find tasks or issues you would like to work on.
+    4. Explore the [Issues](https://github.com/RW2023/fecLanding/issues) section of this repository to find tasks or issues you would like to work on.
     5. Comment on the issue you want to be assigned to, expressing your interest in working on it.
     6. One of the repository admins will review your request and assign you to the issue if appropriate. Please be patient, as it may take some time to process requests.
     7. Once assigned, you can start working on the issue in your local environment.
